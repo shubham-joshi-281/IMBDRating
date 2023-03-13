@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IMBDRating/static/css/main.f1cf05e2.css",
+    "main.js": "/IMBDRating/static/js/main.ca866282.js",
+    "index.html": "/IMBDRating/index.html",
+    "main.f1cf05e2.css.map": "/IMBDRating/static/css/main.f1cf05e2.css.map",
+    "main.ca866282.js.map": "/IMBDRating/static/js/main.ca866282.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1cf05e2.css",
+    "static/js/main.ca866282.js"
+  ]
+}
